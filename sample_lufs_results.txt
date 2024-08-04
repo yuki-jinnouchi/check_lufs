@@ -1,0 +1,67 @@
+LUFS Results
+============
+
+File: Unknown Artist - Juicy Sushi.mp3    Integrated LUFS: -15.5
+File: Lodger - Odoo(Vinyl Rip).mp3        Integrated LUFS: -14.3
+File: Cerrone - Hooked On You(Vinyl Ri... Integrated LUFS: N/A
+File: Both Worlds - Coming On Strong(V... Integrated LUFS: -14.6
+File: The Patchouli Brothers - Like A ... Integrated LUFS: -14.7
+File: Sandboards - Nothing But A Freak... Integrated LUFS: -14.7
+File: Howson's Groove - Rock, Spank, 3... Integrated LUFS: -15.1
+File: Painel De Controle - Relax (Exte... Integrated LUFS: -18.2
+File: Ashford & Simpson - The Boss(Liv... Integrated LUFS: -19.0
+File: Spiller - Batucada(Vinyl Rip).mp... Integrated LUFS: N/A
+File: Cool & the Gang - Summer Madness... Integrated LUFS: -17.2
+File: Natural High - You Make Me So Ha... Integrated LUFS: -18.2
+File: Ukokos & Jabco - Keep Rising All... Integrated LUFS: -15.0
+File: 加川良 (Ryo Kagawa) - 教訓02.mp3         Integrated LUFS: -15.3
+File: Bianca Chandon presents &Co. - W... Integrated LUFS: -17.5
+File: Michel Legrand & Co. - La Pasion... Integrated LUFS: N/A
+File: Lonnie Smith-Sweet Honey Wine.mp... Integrated LUFS: -16.5
+File: Maynard Ferguson - The Buzz (Lov... Integrated LUFS: -19.5
+File: Alleged Witches - Dukun.mp3         Integrated LUFS: N/A
+File: 加川良 (Ryo Kagawa) - 教訓01.mp3         Integrated LUFS: -15.0
+File: Admiral Freebee - My Hippie Ain'... Integrated LUFS: -15.2
+File: Los João - Disco Samba( Vinyl R... Integrated LUFS: -17.6
+File: Same Speed - Urszula's Samba(Vin... Integrated LUFS: N/A
+File: First Choice - Are You Ready For... Integrated LUFS: -16.3
+File: Andy Wilson - Music X-Press (Scr... Integrated LUFS: N/A
+File: Cerrone Featuring Manu Dibango -... Integrated LUFS: -17.9
+File: Dr. Buzzard's Original Savannah ... Integrated LUFS: -16.3
+File: Same Speed - Jerzy's Samba.mp3      Integrated LUFS: -17.0
+File: Right Direction - Midnight Rhyth... Integrated LUFS: -17.8
+File: Unknown Artist - Airbell Samba (... Integrated LUFS: -16.8
+File: Gil Scott-Heron - Your Daddy Lov... Integrated LUFS: -14.8
+File: Dimitri From Stoke On Trent - I ... Integrated LUFS: -15.9
+File: いとうせいこう is the poet - 怒りを吠えるけもの(... Integrated LUFS: -19.7
+File: Marcia Hines - You Gotta Let Go.... Integrated LUFS: -14.8
+File: Salsoul Orchestra - Don't Beat A... Integrated LUFS: -14.8
+File: Andy Wilson - Forever (Screwed).... Integrated LUFS: -16.8
+File: Prince - Chelsea Rodgers(Vinyl R... Integrated LUFS: N/A
+File: Man On The Moon 02(Vinyl Rip).mp... Integrated LUFS: -13.1
+File: Lodger - Afro Cuts(Vinyl Rip).mp... Integrated LUFS: -14.7
+File: Wings - Goodnight Tonight.mp3       Integrated LUFS: -18.3
+File: Lenny Williams - Temptation (Lov... Integrated LUFS: N/A
+File: Dbow - Get Involved (Director's ... Integrated LUFS: -14.5
+File: Pleasure - We Have So Much.mp3      Integrated LUFS: N/A
+File: Deodato - Whistle Bump(Vinyl Rip... Integrated LUFS: -18.8
+File: Business Before Pleasure - Funk ... Integrated LUFS: -16.2
+File: Ilyes & Kizoku - King Zizou 1998... Integrated LUFS: N/A
+File: Sisters Love - Try It You'll Lik... Integrated LUFS: -14.4
+File: Bianca Chandon presents &Co. - B... Integrated LUFS: -19.2
+File: Hector Lavoe - Mi Gente (Louie V... Integrated LUFS: N/A
+File: Unknown Artist - Dorian (バイブレイ... Integrated LUFS: -13.7
+File: Admiral Freebee - My Hippie Ain'... Integrated LUFS: -16.0
+File: Louis Bellson, Shelly Manne, Wil... Integrated LUFS: N/A
+File: Logg - Dancing Into The Stars.mp... Integrated LUFS: -16.9
+File: The Roots - Din Da Da(Vinyl Rip)... Integrated LUFS: N/A
+File: Syclops - Jump Bugs(Vinyl Rip).m... Integrated LUFS: -12.6
+File: Chris Rea - On The Beach (Megami... Integrated LUFS: -17.2
+File: Soul Ascendants - Tribute(Vinyl ... Integrated LUFS: N/A
+File: Man On The Moon 01(Vinyl Rip).mp... Integrated LUFS: -15.0
+File: Candido - Samba Funk(Vinyl Rip).... Integrated LUFS: -16.7
+File: 大橋純子 & 美乃家セントラル・ステイション - クリスタル・シ... Integrated LUFS: -16.3
+File: Gwen McCrae - Keep The Fire Burn... Integrated LUFS: -17.8
+File: Roberto Roena Y Su Apollo Sound ... Integrated LUFS: N/A
+File: Byron The Aquarius - Run Sa (Dim... Integrated LUFS: -17.7
+File: Flora Purim - Jive Talk(Live)(Vi... Integrated LUFS: -15.7
