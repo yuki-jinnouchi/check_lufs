@@ -1,8 +1,15 @@
 # Check LUFS
 
+## Background
+
+I have ripped or edited some tracks from records, but some of them have not enough sound volume.
+So, I have to select which file should be fixed.
+Then, I made a shell command to check and list up LUFS (Loudness Units Full Scale) level of them.
+
 ## Description
 
-This project aims to provide a tool for checking LUFS (Loudness Units Full Scale) levels in audio files. It can be used to ensure compliance with loudness standards and regulations.
+This project aims to provide a tool for checking LUFS levels in audio files.
+It can be used to ensure compliance with loudness standards and regulations.
 
 ## Installation
 
